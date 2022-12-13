@@ -1,6 +1,6 @@
-_============================================_
-Front-end vs Back-end development
-_============================================_
+# Front-end vs Back-end development
+
+---
 
 We visit a page, the browser sends a request to the web server where the website is hosted, the server then sends a response with all of the files requested. It responds with html, css, and javascript, which are the core web technologies. The browser then renders the website with the provided files.
 
@@ -10,12 +10,10 @@ When you visit a dynamic website the request is sent to a server where the websi
 
 The files are sent as before and the browser renders the site in the same way.
 
-_============================================_
-The three languages
-_============================================_
+---
+
+## The three languages
 
 HTML is the content of the webpage. CSS is the styling of that content on the page. JS is the dynamic effects and data of the webpage.
 
-_============================================_
-
-_============================================_
+---
