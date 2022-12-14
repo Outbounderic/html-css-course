@@ -13,3 +13,20 @@ The files are sent as before and the browser renders the site in the same way.
 HTML is the content of the webpage. CSS is the styling of that content on the page. JS is the dynamic effects and data of the webpage.
 
 ---
+
+## HTML
+
+HyperText Markup Language is a core language for structuring and describing the content of a page.
+
+HTML uses _elements_ to describe it's content.
+Web browsers understand HTML and render the code as websites.
+
+### HTML Element
+
+`<p>HTML is a markup language</p>`
+An element has an opening tag, the content and the closing tag.
+If the content is another element it is called a child element and it is the parent element.
+
+### HTML Document Structure
+
+Consists of a DOCTYPE declaration, the html tag which has two children elements called head and body.
